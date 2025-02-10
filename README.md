@@ -24,3 +24,4 @@ Summarizer -
 ![Alt text](summarizer.png)
 ![Alt text](newsarticlewithdummyimage.png)
 ![Alt text](https://github.com/ajlr2003/News-Aggregator-and-Summarizer/blob/5e35f0e24cdb634156b1df9a398ded51aeb266b7/personalized%20field.png)
+![Alt text](https://github.com/ajlr2003/News-Aggregator-and-Summarizer/blob/8e811b06e8871c193dab056be6327e02c2bb8188/summarized%20text%20from%20link.png)
