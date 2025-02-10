@@ -22,6 +22,6 @@ Home Page -
 
 Summarizer -
 ![Alt text](summarizer.png)
-![Alt text](home.png)
-![Alt text](home.png)
-summarizer.png
+![Alt text](newsarticlewithdummyimage.png)
+![Alt text](personalizedfield.png)
+![Alt text](summarizedtextfromlink.png)
