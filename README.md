@@ -23,4 +23,4 @@ Home Page -
 Summarizer -
 ![Alt text](summarizer.png)
 ![Alt text](newsarticlewithdummyimage.png)
-![Alt text](personalized field.png)
+![Alt text](https://github.com/ajlr2003/News-Aggregator-and-Summarizer/blob/5e35f0e24cdb634156b1df9a398ded51aeb266b7/personalized%20field.png)
