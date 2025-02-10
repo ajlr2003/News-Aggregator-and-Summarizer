@@ -17,4 +17,11 @@ By combining the capabilities of the ChatGPT API with the MERN stack, the News A
 
 ## ScreenShots
 As I am using NEWS API it is for only limited free requests so i am showing you the ScreenShots and one more happend was previously newsApi was providing many urltoimages but now it reduced so i used a dummy image to show the news article
+Home Page -
 ![Alt text](home.png)
+
+Summarizer -
+![Alt text](summarizer.png)
+![Alt text](home.png)
+![Alt text](home.png)
+summarizer.png
